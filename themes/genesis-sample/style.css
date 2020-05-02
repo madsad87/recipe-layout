@@ -1846,25 +1846,3 @@ p.entry-meta {
 }
 
 
-//Madison's Custom CSS additions
-
-.button-more-link .ab-block-post-grid-more-link {
-    background-color: #eee;
-    clear: both;
-    color: #222;
-    display: block;
-    font-size: 14px;
-    margin-top: 20px;
-    padding: 8px 10px;
-    text-align: center;
-}
-
-
-@media only screen and (min-width: 900px) {
-
-.button-more-link .ab-block-post-grid-text{
-    margin-top: -35%;
-	margin-bottom: 35%;
-    padding: 0px 10px 0px 10px;
-	}
-}
